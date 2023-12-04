@@ -10,7 +10,7 @@ const Button = () => {
                 <h1 className="text-white mb-lg-3 mb-4"><strong>Barber <em>Shop</em></strong></h1>
                 <p className="text-black">Get the most professional haircut for you</p>
                 <br />
-                <a className="btn custom-btn custom-border-btn custom-btn-bg-white smoothscroll me-2 mb-2" href="#section_2">About Us</a>
+                
                 <a className="btn custom-btn smoothscroll mb-2" href="#section_3">What we do</a>
                 </div>
             </div>
